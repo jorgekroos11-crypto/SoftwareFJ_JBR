@@ -31,7 +31,7 @@ Sistema integral de gestión de clientes, servicios y reservas desarrollado para
 
 ## Integrantes
 
-- Jorge Bastidas
+- Jorge Alberto Bastidas Redondo
 - Integrante N/A
 - Integrante N/A
 - Integrante N/A
