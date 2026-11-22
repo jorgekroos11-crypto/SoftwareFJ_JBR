@@ -1,39 +1,25 @@
 # SoftwareFJ_JBR
 
-Sistema integral de gestión de clientes, servicios y reservas desarrollado para la actividad colaborativa del curso Programación (213023) de la Universidad Nacional Abierta y a Distancia (UNAD).
+Sistema integral de gestión de clientes, servicios y reservas desarrollado para el curso Programación (213023) de la UNAD.
 
 ## Funcionalidades
 
-- Registro de clientes
-- Administración de servicios
+- Gestión de clientes
+- Gestión de servicios
 - Gestión de reservas
 - Manejo avanzado de excepciones
-- Registro de eventos y errores mediante archivo log
-- Aplicación de Programación Orientada a Objetos
-
-## Conceptos implementados
-
-- Clases abstractas
-- Herencia
-- Encapsulación
-- Polimorfismo
-- Sobrecarga mediante parámetros opcionales
-- Excepciones personalizadas
-- Try / Except
-- Try / Except / Else
-- Try / Except / Finally
-- Encadenamiento de excepciones
-
-## Archivos
-
-- software_fj.py
-- app_software_fj.py
+- Registro de eventos mediante logs
+- Interfaz gráfica
 
 ## Integrantes
 
 - Jorge Alberto Bastidas Redondo
-- Integrante N/A
-- Integrante N/A
-- Integrante N/A
-- Integrante N/A
+
+
+## Repositorio
+
+Proyecto desarrollado para la Actividad 4 del curso Programación.
+
+- Jorge Alberto Bastidas Redondo
+
 - # SoftwareFJ_JBR
